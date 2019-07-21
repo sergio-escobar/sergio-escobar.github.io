@@ -1,0 +1,18 @@
+body{
+	background-color: red;
+	text-align: center;
+}
+
+#page {
+	float: right;
+	margin-right: 5px;
+}
+
+#proj {
+	color: white;
+	font-size: 20px;
+}
+
+#description {
+	color: lightgray;
+}
